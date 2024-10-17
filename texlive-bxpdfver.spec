@@ -3,7 +3,7 @@ Version:	71967
 Release:	1
 Summary:	Specify version and compression level of output PDF files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxpdfver
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxpdfver
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxpdfver.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxpdfver.doc.r%{version}.tar.xz
